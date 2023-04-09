@@ -28,6 +28,8 @@
 
 ## Installation
 
+Please replace app.module.ts attaced to submission email before running the app
+
 ```bash
 $ npm install
 ```
